@@ -1,6 +1,5 @@
 # Emendas-Project
----
-
+Projeto em construção...
 ### Habilidades sendo desenvolvidas nesse projeto 
 - Bibliotecas: Pandas, Numpy e scikit learn
 - Análise descritiva
